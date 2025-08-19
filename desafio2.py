@@ -1,0 +1,1 @@
+# sistema de gestão de tarefas, usando while, append e listas! Revisar documentação
