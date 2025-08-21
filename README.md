@@ -3,7 +3,7 @@
 ## Desafios
 
 * Desafio 1 (média aritmética)
-* Desafio 2 (gestão de tarefas) __incompleto__
+* Desafio 2 (gestão de tarefas)
 * Desafio 3 (IMC e consumo de água)
 * Desafio 4 (folha de salário)
 
