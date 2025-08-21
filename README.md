@@ -7,6 +7,9 @@
 * Desafio 3 (IMC e consumo de água)
 * Desafio 4 (folha de salário)
 
+## Listas de Exercícios
+[BFD - Lista 1.pdf](https://github.com/user-attachments/files/21920138/BFD.-.Lista.1.pdf)
+
 ## Instruções para subir no github
 
 ### …or create a new repository on the command line
