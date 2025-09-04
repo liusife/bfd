@@ -1,14 +1,14 @@
 # Repositório com desafios propostos nas aulas de Python no BFD
 
-## Modulos
-### Modulo 1 (Lógica de Progamação em Python)
+## Módulos
+### Módulo 1 (Lógica de Progamação em Python)
 * Desafios
   * Desafio 1 (média aritmética)
   * Desafio 2 (gestão de tarefas)
   * Desafio 3 (IMC e consumo de água)
   * Desafio 4 (folha de salário)
 * Listas de Exercícios
-### Modulo 2 (Python e Orientação a Objetos, Engenharia de Software)
+### Módulo 2 (Python e Orientação a Objetos, Engenharia de Software)
 * Classes
 * Metodologia Scrum
 
