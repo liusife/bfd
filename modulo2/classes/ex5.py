@@ -21,6 +21,18 @@ class Professor(Pessoa):
     def apresentar(self):
         print(f"{super().apresentar()}, Disciplina: {self.disciplina}, Salário: {self.__salario}")
 
+class Aluno(Pessoa):
+    def __init__(self, nome, idade, matricula, curso):
+        super().__init__(nome, idade)
+        self.matricula = matricula
+        self.curso = curso
+    
+    def apresentar(self):
+        print(f"{super().apresentar()}, Matrícula: {self.matricula}, Curso: {self.curso}")
+
 professor = Professor("Ana", 35, "Matemática", 5000.00)
-professor.set_salario(5500.00)
-professor.apresentar()   
+
+aluno = Aluno("Carlos", 20, "2023001", "Engenharia")
+
+professor.apresentar()
+aluno.apresentar()
