@@ -12,8 +12,8 @@ class Professor(Pessoa):
         self.disciplina = disciplina
         self.__salario = salario
     
-    def get_salario(self):
-        return self.__salario
+    # def get_salario(self):
+    #     return self.__salario
     
     def set_salario(self, novo_salario):
         self.__salario = novo_salario
